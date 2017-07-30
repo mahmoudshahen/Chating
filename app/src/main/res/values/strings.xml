@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MobileChat</string>
+
+    <string name="btn_login">Login</string>
+    <string name="btn_link_to_register">Register Now !</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back">back</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_Confirm_password">Confirm Password</string>
+    <string name="action_sign_in_short">Sign Up</string>
+    <string name="signOut">Sign out</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="passwordsnotmatch">confirm password does not match password</string>
+    <string name="fill_fields">please fill th fields</string>
+    <string name="resetSuccess">We have sent you instructions to reset your password!</string>
+    <string name="resetFailed">Failed to send reset email!</string>
+    <string name="wrongMail">Check your mail and password</string>
+    <string name="failedSignUp">failed to sign up</string>
+    <string name="groupChatKey">groupChat</string>
+</resources>
