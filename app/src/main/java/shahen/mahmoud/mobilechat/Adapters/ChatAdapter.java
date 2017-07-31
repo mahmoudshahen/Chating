@@ -10,6 +10,7 @@ import com.google.firebase.auth.FirebaseUser;
 
 import java.util.List;
 
+import shahen.mahmoud.mobilechat.Animatation.Animate;
 import shahen.mahmoud.mobilechat.Chat.Message;
 import shahen.mahmoud.mobilechat.R;
 

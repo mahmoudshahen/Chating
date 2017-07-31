@@ -54,7 +54,7 @@ public class ChatActivity extends AppCompatActivity implements View.OnClickListe
         firebaseAuth = FirebaseAuth.getInstance();
         firebaseDatabase = FirebaseDatabase.getInstance();
         databaseReference = firebaseDatabase.getReference();
-        user = firebaseAuth.getCurrentUser();
+        user = FirebaseAuth.getInstance().getCurrentUser();
         addFAB.setOnClickListener(this);
         messagesRecyclerView.setLayoutManager(new LinearLayoutManager(this));
         messagesList = new ArrayList<>();

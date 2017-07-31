@@ -18,4 +18,6 @@
     <string name="wrongMail">Check your mail and password</string>
     <string name="failedSignUp">failed to sign up</string>
     <string name="groupChatKey">groupChat</string>
+    <string name="addMessage">Add message</string>
+    <string name="typeMessage">Type a message...</string>
 </resources>
